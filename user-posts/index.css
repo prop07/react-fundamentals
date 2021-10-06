@@ -1,0 +1,11 @@
+.userimgpost {
+  height: 3rem;
+  width: 3rem;
+  border-radius: 50%;
+}
+.postusername {
+  font-size: 1.2rem;
+}
+.text-fade {
+  color: grey;
+}
